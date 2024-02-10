@@ -1,0 +1,33 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nombre": "Juan",
+      "telefono": 102013313,
+      " email": "email@example.com",
+      "empresa": "EmpresaEjemplo"
+    },
+    {
+      "id": "3",
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "email3@example.com",
+      "empresa": "EmpresaEjemplo"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      " telefono": 1398198938,
+      "email": "email5@example.com",
+      "empresa": "EmpresaEjemplo"
+    },
+    {
+      "id": "50ea",
+      "nombre": "David Quinteros",
+      "empresa": "Proyectar Store",
+      "email": "correo@correo.com",
+      "telefono": "123124214",
+      "notas": "Ecommerce"
+    }
+  ]
+}
